@@ -4,7 +4,7 @@ Portafolio profesional con proyectos de desarrollo de software, inteligencia art
 
 ## Ver portafolio
 
-[Abrir la versión publicada](https://fernhilberth18.github.io/portfolio-fernando-hilberth/)
+[Abrir la versión publicada](https://fernanhilberth18.github.io/portfolio-fernando-hilberth/)
 
 ## Contenido
 
